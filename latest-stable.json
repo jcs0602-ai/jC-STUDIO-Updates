@@ -1,6 +1,6 @@
 {
   "version": "3.3.3",
-  "notes": "V3.3.2 DEV 사용자를 V3.3.3 STABLE 정식 채널로 전환합니다.",
+  "notes": "V3.3.3 STABLE: 설치 후 DEV 표시 문제를 수정하고 정식 STABLE 채널로 통일. 기존 기능과 로고/프리셋/대기열 수정 유지.",
   "url": "https://raw.githubusercontent.com/jcs0602-ai/jC-STUDIO-Updates/main/jC-STUDIO-V3.3.3-STABLE-UPDATE.zip",
   "sha256": "262bfaaccc367764680fac33f1cbff071924b9647c0d15b5935e199d3fad484e"
 }
