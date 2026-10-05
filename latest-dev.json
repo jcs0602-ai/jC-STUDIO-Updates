@@ -1,7 +1,7 @@
 {
-  "version": "3.2.3",
+  "version": "3.2.4",
   "channel": "dev",
-  "notes": "jC-STUDIO V3.2.3 DEV Silent Update: 업데이트 및 자동 재실행 과정의 CMD 창을 숨김 처리. 기존 자동 백업, SHA-256 검증, 컴파일 검사, 실패 시 자동 롤백 및 update_restart.log 기록 유지.",
-  "url": "https://raw.githubusercontent.com/jcs0602-ai/jC-STUDIO-Updates/main/jC-STUDIO-V3.2.3-DEV-Silent-Update.zip",
-  "sha256": "d8dda9d4e69b967963e772ec650e831f0339071406d16130309f0f339b16cc2e"
+  "notes": "jC-STUDIO V3.2.4 DEV: 버전 표시를 APP_VERSION/APP_CHANNEL 단일 기준으로 통합하고, 업데이트 도우미와 자동 재실행을 pythonw.exe 기반으로 변경하여 CMD 창 노출을 추가 방지. Silent DEV 실행 VBS 포함.",
+  "url": "https://raw.githubusercontent.com/jcs0602-ai/jC-STUDIO-Updates/main/jC-STUDIO-V3.2.4-DEV-Version-SilentCMD-Fix.zip",
+  "sha256": "f99eec4918145a561b15a95f0e9bfeb43f212f8702fcf8ca284830bfa876e6dd"
 }
