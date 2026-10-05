@@ -1,7 +1,7 @@
 {
-  "version": "3.2.0",
+  "version": "3.2.1",
   "channel": "stable",
-  "notes": "jC-STUDIO V3.2.0 STABLE UI 개선: 좌측 상단 로고 적용, 불필요한 YuE2 한국어 음악 제작 스튜디오 부제 제거, 주요 메뉴·버튼·탭 글자 Bold 강화. DEV에서 검증 후 STABLE로 승격.",
-  "url": "https://raw.githubusercontent.com/jcs0602-ai/jC-STUDIO-Updates/main/jC-STUDIO-V3.2.0-STABLE-update.zip",
-  "sha256": "0148d1f52790a0e25047173158f204e7156e1d1cc48af4f64702b426008b76ac"
+  "notes": "jC-STUDIO V3.2.1 STABLE: 원클릭 업데이트 후 자동 종료·자동 재실행 기능 추가. 업데이트 전 검증/백업 및 새 버전 실행 실패 시 이전 버전 자동 복구 기능 포함.",
+  "url": "https://raw.githubusercontent.com/jcs0602-ai/jC-STUDIO-Updates/main/jC-STUDIO-V3.2.1-STABLE-update.zip",
+  "sha256": "6f7d207438ce7db8cb8867ca96a373d9a0762ee9a9d2b2267e9a57a670562117"
 }
