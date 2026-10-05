@@ -1,6 +1,6 @@
 {
   "version": "3.3.3",
-  "notes": "기존 V3.3.2 DEV 업데이트 로직 사용자를 V3.3.3 STABLE로 전환하는 1회 마이그레이션.",
-  "url": "https://raw.githubusercontent.com/jcs0602-ai/jC-STUDIO-Updates/main/jC-STUDIO-V3.3.3-STABLE-UPDATE.zip",
-  "sha256": "a654e6c87cbf727c203c2b7b2b22f680930e40c89b07783b9f95a8538d489b99"
+  "notes": "V3.3.2 기존 업데이트 구조에서 V3.3.3 STABLE로 전환하는 마이그레이션 업데이트입니다.",
+  "url": "https://raw.githubusercontent.com/jcs0602-ai/jC-STUDIO-Updates/main/jC-STUDIO-V3.3.3-STABLE-MIGRATION-UPDATE.zip",
+  "sha256": "1cc84c59eb744fb32f6f05368b7ba00a2f39e144b4a8d6b306d77a04517910af"
 }

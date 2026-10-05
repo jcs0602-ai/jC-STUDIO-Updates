@@ -1,6 +1,6 @@
 {
   "version": "3.3.3",
-  "notes": "V3.3.3 STABLE: 실제 V3.3.2 실행 소스를 기준으로 DEV 업데이트 로직을 제거하고 stable.json/latest-stable.json 기반 정식 업데이트 체계로 수정.",
-  "url": "https://raw.githubusercontent.com/jcs0602-ai/jC-STUDIO-Updates/main/jC-STUDIO-V3.3.3-STABLE-UPDATE.zip",
-  "sha256": "a654e6c87cbf727c203c2b7b2b22f680930e40c89b07783b9f95a8538d489b99"
+  "notes": "V3.3.3 STABLE 정식 업데이트 채널입니다.",
+  "url": "https://raw.githubusercontent.com/jcs0602-ai/jC-STUDIO-Updates/main/jC-STUDIO-V3.3.3-STABLE-MIGRATION-UPDATE.zip",
+  "sha256": "1cc84c59eb744fb32f6f05368b7ba00a2f39e144b4a8d6b306d77a04517910af"
 }
