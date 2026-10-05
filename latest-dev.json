@@ -1,6 +1,6 @@
 {
   "version": "3.3.3",
-  "notes": "V3.3.2 DEV 사용자를 V3.3.3 STABLE 정식 채널로 전환합니다.",
+  "notes": "기존 V3.3.2 DEV 업데이트 로직 사용자를 V3.3.3 STABLE로 전환하는 1회 마이그레이션.",
   "url": "https://raw.githubusercontent.com/jcs0602-ai/jC-STUDIO-Updates/main/jC-STUDIO-V3.3.3-STABLE-UPDATE.zip",
-  "sha256": "262bfaaccc367764680fac33f1cbff071924b9647c0d15b5935e199d3fad484e"
+  "sha256": "a654e6c87cbf727c203c2b7b2b22f680930e40c89b07783b9f95a8538d489b99"
 }
