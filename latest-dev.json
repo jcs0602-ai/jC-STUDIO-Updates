@@ -1,7 +1,7 @@
 {
-  "version": "3.2.1",
+  "version": "3.2.2",
   "channel": "dev",
-  "notes": "jC-STUDIO V3.2.1 DEV: 원클릭 업데이트 후 자동 종료·자동 재실행 기능 추가. 업데이트 전 검증/백업 및 새 버전 실행 실패 시 이전 버전 자동 복구 기능 포함.",
-  "url": "https://raw.githubusercontent.com/jcs0602-ai/jC-STUDIO-Updates/main/jC-STUDIO-V3.2.1-DEV-update.zip",
-  "sha256": "25a3a26548463e7635931bcd7707fd48a16597c6c62e0b6fc21ed272ff61efab"
+  "notes": "jC-STUDIO V3.2.2 DEV Restart Fix: 업데이트 후 자동 재실행 문제 수정. Windows 독립 업데이트 프로세스, 종료 확인 후 재실행, 실패 시 자동 롤백, update_restart.log 기록 추가.",
+  "url": "https://raw.githubusercontent.com/jcs0602-ai/jC-STUDIO-Updates/main/jC-STUDIO-V3.2.2-DEV-Restart-Fix.zip",
+  "sha256": "4efacd6ba485180f072666216ea71311434ed4bc69ad2eaca10a4aafcf35d24a"
 }
