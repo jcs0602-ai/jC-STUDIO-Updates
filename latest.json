@@ -1,7 +1,7 @@
 {
-  "version": "3.2.3",
+  "version": "3.2.5",
   "channel": "stable",
-  "notes": "jC-STUDIO V3.2.3 STABLE Silent Update: DEV에서 검증된 무콘솔 업데이트 적용. 업데이트 및 자동 재실행 과정에서 CMD 창을 숨기며, 기존 SHA-256 검증, 컴파일 검사, 자동 백업, 실패 시 롤백 및 update_restart.log 기록을 유지합니다.",
-  "url": "https://raw.githubusercontent.com/jcs0602-ai/jC-STUDIO-Updates/main/jC-STUDIO-V3.2.3-STABLE-Silent-Update.zip",
-  "sha256": "0c110a98a26ba8f6bcf5769d667424a2aee547cd5556a0e03c22c0bd6fd687ad"
+  "notes": "jC-STUDIO V3.2.5 STABLE: DEV에서 검증된 버전 비교 통합, Silent CMD 업데이트, 자동 종료 및 자동 재실행 기능 적용. 설치 버전과 서버 버전이 같거나 설치 버전이 더 높으면 현재 최신 버전을 사용하고 있습니다로 처리합니다. SHA-256 검증, 컴파일 검사, 자동 백업, 실패 시 롤백 및 update_restart.log 기록을 유지합니다.",
+  "url": "https://raw.githubusercontent.com/jcs0602-ai/jC-STUDIO-Updates/main/jC-STUDIO-V3.2.5-STABLE-Version-Compare-SilentCMD.zip",
+  "sha256": "df20c0f378f273543316e401bf0c45de9cdbabb0586b03dee377d81f7e6a691f"
 }
