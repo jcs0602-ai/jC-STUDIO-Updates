@@ -1,7 +1,7 @@
 {
-  "version": "3.1.7.9",
+  "version": "3.2.0",
   "channel": "dev",
-  "notes": "jC-STUDIO V3.1.7.9 DEV 기준 버전. 프로그램 정보 및 DEV Update Center 적용.",
-  "url": "",
-  "sha256": ""
+  "notes": "jC-STUDIO V3.2.0 DEV UI 개선: 좌측 상단 로고 적용, 불필요한 YuE2 한국어 음악 제작 스튜디오 부제 제거, 주요 메뉴·버튼·탭 글자 Bold 강화.",
+  "url": "https://raw.githubusercontent.com/jcs0602-ai/jC-STUDIO-Updates/main/jC-STUDIO-V3.2.0-DEV-update.zip",
+  "sha256": "151d1e56a74262f757662bc0a2933d1e626287c02c1ec08efbffacbea2a2dab9"
 }
